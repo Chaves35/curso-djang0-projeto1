@@ -1,1 +1,1 @@
-print('Olá!')
+print('Olá! Testando o commit!')
