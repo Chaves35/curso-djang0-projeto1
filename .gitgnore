@@ -1,1 +1,8 @@
-venv
+venv/
+.log
+.pot
+.pyc
+.bak
+.py[cod]
+$py.class
+dist/
